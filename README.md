@@ -13,3 +13,9 @@ Desenvolvimento do menu de navegação da página
 Desenvolvimento do cabeçalho da página e pequenas alterações de fonte e cor do menu de navegação
 
 ![image](https://user-images.githubusercontent.com/19349339/161359839-9f5e5e4b-9d51-47fc-be36-f4fd1209aa98.png)
+
+
+## Dia 3
+Desenvolvimento da seção de Métricas e Resultados. Ajustes estéticos na estrutura HTML da página e no CSS.
+
+![image](https://user-images.githubusercontent.com/19349339/161386917-ce71f63a-a10b-4d05-afeb-d58e11cf61db.png)
