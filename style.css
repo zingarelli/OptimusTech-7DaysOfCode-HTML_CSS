@@ -1,8 +1,17 @@
-header{
-    height: 80px;
-    color: #667085;
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
+:root {
+    --text-color: #667085;
+    --main-color: #8E2424;
+}
+
+html{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px; 
+    color: var(--text-color)
+}
+
+.box-navigation{
+    height: 80px;    
+    font-weight: 600;
     display: flex;
     align-items: center;
 }
@@ -27,8 +36,35 @@ header{
 }
 
 .botao-cadastro{
-    background-color: #8E2424;
+    background-color: var(--main-color);
     color: #FFFFFF;
     border-radius: 7px;
     padding: 10px 17px;
+}
+
+.sobre{
+    width: 58%;
+    height: 407px;
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 24px;
+}
+
+.sobre span{
+    color: var(--main-color);
+    font-weight: 600;
+}
+
+.sobre h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #101828;
+}
+
+.sobre p{
+    font-size: 20px;
 }
