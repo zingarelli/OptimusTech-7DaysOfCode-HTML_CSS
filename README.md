@@ -19,3 +19,9 @@ Desenvolvimento do cabeçalho da página e pequenas alterações de fonte e cor 
 Desenvolvimento da seção de Métricas e Resultados. Ajustes estéticos na estrutura HTML da página e no CSS.
 
 ![image](https://user-images.githubusercontent.com/19349339/161386917-ce71f63a-a10b-4d05-afeb-d58e11cf61db.png)
+
+
+## Dia 4
+Início do desenvolvimento da seção de vagas. Alguns ajustes no CSS da página para ficar próximo do layout fornecido no Figma.
+
+![image](https://user-images.githubusercontent.com/19349339/161433494-5751d738-2510-4c07-b0dc-c369240e0dd2.png)
