@@ -2,6 +2,7 @@
     --text-color: #667085;
     --main-color: #8E2424;
     --black-color: #101828;
+    --gray-color: #EAECF0;
 }
 
 html{
@@ -129,8 +130,8 @@ body{
 
 /* Seção de vagas abertas */
 .vagas {
-    height: 1798px;
     text-align: center;
+    margin: 96px 0;
 }
 
 /* conversão hex para rgb feita em https://www.rapidtables.com/convert/color/hex-to-rgb.html */
@@ -160,4 +161,39 @@ body{
 .vagas img{
     width: 100%; 
     margin: 64px auto;
+}
+
+.setor-da-vaga{
+    width: 60%;
+    margin: 0 auto 64px;
+}
+
+.setor-da-vaga h3{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+    color: var(--black-color);
+    margin-bottom: 32px;
+}
+
+.card-vaga{
+    border: 1px solid var(--gray-color);
+    border-radius: 16px;
+    padding: 24px 24px 28px;
+    margin-bottom: 24px;
+    text-align: left;
+}
+
+.titulo-vaga{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--black-color);
+    display: block;
+    margin-bottom: 32px;
+}
+
+.info-vaga span{
+    font-weight: 500;
+    display: inline-block;
+    margin-right: 24px;
 }
