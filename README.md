@@ -25,3 +25,8 @@ Desenvolvimento da seção de Métricas e Resultados. Ajustes estéticos na estr
 Início do desenvolvimento da seção de vagas. Alguns ajustes no CSS da página para ficar próximo do layout fornecido no Figma.
 
 ![image](https://user-images.githubusercontent.com/19349339/161433494-5751d738-2510-4c07-b0dc-c369240e0dd2.png)
+
+## Dia 5
+Continuação da seção de vagas, agora mostrando a lista das vagas disponíveis. Print de parte do conteúdo adicionado:
+
+![image](https://user-images.githubusercontent.com/19349339/161638277-e72c95cf-d246-4675-92e7-022d0a43639b.png)
