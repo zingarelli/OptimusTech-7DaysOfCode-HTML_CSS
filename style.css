@@ -197,3 +197,35 @@ body{
     display: inline-block;
     margin-right: 24px;
 }
+
+/* Seção de depoimentos */
+.depoimentos{
+    text-align: center;
+    margin: 0 auto 96px;
+    padding: 64px;
+    border-radius: 16px;
+    background-color: rgba(195, 25, 25, 0.03);
+}
+
+.depoimentos span{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--main-color);
+}
+
+.depoimentos h2{
+    font-size: 34px;
+    font-weight: 500;
+    color: var(--black-color);
+    margin: 16px 0 32px;
+}
+
+.nome{
+    font-weight: 500;
+    margin: 16px 0 4px;
+    color: var(--black-color);
+}
+
+.profissao{
+    font-size: 14px;
+}
