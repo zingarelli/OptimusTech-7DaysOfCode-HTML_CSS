@@ -30,3 +30,8 @@ Início do desenvolvimento da seção de vagas. Alguns ajustes no CSS da página
 Continuação da seção de vagas, agora mostrando a lista das vagas disponíveis. Print de parte do conteúdo adicionado:
 
 ![image](https://user-images.githubusercontent.com/19349339/161638277-e72c95cf-d246-4675-92e7-022d0a43639b.png)
+
+## Dia 6
+Desenvolvimento da seção de Depoimentos.
+
+![image](https://user-images.githubusercontent.com/19349339/161873568-bec09393-bdb6-4dcc-a593-14da02ac9d8a.png)
