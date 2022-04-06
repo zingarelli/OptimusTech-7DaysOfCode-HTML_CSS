@@ -35,3 +35,10 @@ Continuação da seção de vagas, agora mostrando a lista das vagas disponívei
 Desenvolvimento da seção de Depoimentos.
 
 ![image](https://user-images.githubusercontent.com/19349339/161873568-bec09393-bdb6-4dcc-a593-14da02ac9d8a.png)
+
+## Dia 7
+Desenvolvimento da seção de Footer, com um formulário (somente layout, sem ação ao clicar no botão). Com isso, encerro o desafio!
+![image](https://user-images.githubusercontent.com/19349339/162078553-966d822f-4dfa-4411-b9c9-3bd4114cbd93.png)
+
+## To Do
+Fazer o upload da página para ser exibida online. Talvez utilizar o https://pages.github.com
