@@ -1,13 +1,24 @@
-# #7DaysOfCode - HTML e CSS
+# #7DaysOfCode | HTML e CSS
+
 Projeto desenvolvido durante o desafio #7DaysOfCode da Alura (https://7daysofcode.io). O desafio para HTML e CSS é criar uma página de contratação para uma empresa de TI fictícia chamada OptimusTech. A cada dia sou desafiado a fazer uma parte do layout da página, cujo protótipo foi disponibilizado no Figma. 
 
 O desafio envolve utilizar conceitos de HTML e CSS, como alinhamento, inserção de imagens, separação de blocos e sub-blocos, Flexbox, Grid, etc.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **7DaysOfCode - HTML e CSS**
+| :label: Tecnologias | HTML, CSS
+| :rocket: URL         | https://zingarelli.github.io/OptimusTech-7DaysOfCode-HTML_CSS/
+| :fire: Desafio     | https://7daysofcode.io/matricula/html-css
+
+![Screenshot de uma seção do site](https://user-images.githubusercontent.com/19349339/190243295-94b767a3-b7ea-414e-8292-8f7ab26ab3ae.png#vitrinedev)
+
+## Detalhes do projeto
 
 ## Dia 1
 Desenvolvimento do menu de navegação da página
 
 ![image](https://user-images.githubusercontent.com/19349339/161184557-1768ebd5-a3a3-4eda-a541-84caff1c0d86.png)
-
 
 ## Dia 2
 Desenvolvimento do cabeçalho da página e pequenas alterações de fonte e cor do menu de navegação
@@ -41,4 +52,4 @@ Desenvolvimento da seção de Footer, com um formulário (somente layout, sem a�
 ![image](https://user-images.githubusercontent.com/19349339/162078553-966d822f-4dfa-4411-b9c9-3bd4114cbd93.png)
 
 ## To Do
-Fazer o upload da página para ser exibida online. Talvez utilizar o https://pages.github.com
+Adaptar o site para telas menores.
