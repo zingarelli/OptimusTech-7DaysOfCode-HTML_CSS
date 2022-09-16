@@ -11,7 +11,7 @@ O desafio envolve utilizar conceitos de HTML e CSS, como alinhamento, inserção
 | :rocket: URL         | https://zingarelli.github.io/OptimusTech-7DaysOfCode-HTML_CSS/
 | :fire: Desafio     | https://7daysofcode.io/matricula/html-css
 
-![Screenshot de uma seção do site](https://user-images.githubusercontent.com/19349339/190243295-94b767a3-b7ea-414e-8292-8f7ab26ab3ae.png#vitrinedev)
+![](https://user-images.githubusercontent.com/19349339/190243295-94b767a3-b7ea-414e-8292-8f7ab26ab3ae.png#vitrinedev)
 
 ## Detalhes do projeto
 
